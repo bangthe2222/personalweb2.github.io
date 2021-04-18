@@ -5,7 +5,7 @@ h1{
 
 }
 p{
-    color: black;
+    color: rgb(61, 214, 235);
     text-align: center;
     font-family: 'Times New Roman';
     font-size: medium;
@@ -58,5 +58,5 @@ h1 {
     margin: 0;
     padding: 20px 0;
     color: #00539F;
-    text-shadow: 3px 3px 1px black;
+    text-shadow: 3px 3px 1px rgb(20, 177, 189);
 }
