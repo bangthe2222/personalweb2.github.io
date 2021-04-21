@@ -1,22 +1,18 @@
 h1{
-    color: rgb(9, 28, 82);
+    color: rgb(182, 174, 59);
     text-align: center;
     font-family: 'Times New Roman';
 
 }
-p{
-    color: rgb(61, 214, 235);
-    text-align: center;
-    font-family: 'Times New Roman';
-    font-size: medium;
-}
+
+
 a:link {
     color: green;
     background-color: transparent;
     text-decoration: none;
 }
 a:visited {
-    color: pink;
+    color: rgb(160, 236, 116);
     background-color: transparent;
     text-decoration: none;
 }
@@ -31,7 +27,7 @@ a:active {
     text-decoration: underline;
 }
 hr{
-    color:skyblue;
+    color:rgb(110, 214, 228);
 }
 img{
     display: block; 
@@ -39,17 +35,17 @@ img{
     margin-right: auto;
 }
 html {
-    background-image: url(../styles/img/about-bg1.jpg);
+    background-image: url(../troi-sao-2.jpg);
     width: auto;
     height: auto;
 }
 body {
-    width: 800px;
-    height:fit-content;
-    margin: 200px auto;
-    background-image: url(../styles/img/hero-background2.jpg);
+    width: 1000px;
+    height:max-content;
+    margin: 0 auto;
+    background-image: url(../hinh-nen-iphone.jpg);
     padding: 0 20px 20px 20px;
-    border: 5px solid rgb(80, 167, 218);
+    border: 5px solid rgb(41, 161, 177);
 }
 a{
     font-family: 'Courier New', Courier, monospace;
@@ -60,3 +56,32 @@ h1 {
     color: #00539F;
     text-shadow: 3px 3px 1px rgb(20, 177, 189);
 }
+h2{
+    font-size: larger;
+    color: rgb(228, 38, 31);
+    text-align: center;
+}
+h3{
+    font-size: larger;
+    color: rgb(173, 25, 161);
+    text-align: center;
+}
+.AI{
+    font-family: 'Times New Roman';
+    color:rgb(133, 228, 228);
+    text-align: center;
+    font-size: large;
+}
+.main{
+    color: rgb(109, 235, 235);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: larger;
+}
+.python{
+    color:rgb(116, 214, 209);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
